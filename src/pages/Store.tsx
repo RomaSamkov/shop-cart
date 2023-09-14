@@ -12,7 +12,6 @@ export function Store() {
           </Col>
         ))}
       </Row>
-      <h1>Store</h1>
     </>
   );
 }
